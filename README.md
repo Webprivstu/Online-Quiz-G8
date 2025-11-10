@@ -6,8 +6,11 @@ Team OneDrive: https://ulster-my.sharepoint.com/:f:/g/personal/beggs-g4_ulster_a
 Assessment Notes
 
 -Control Software Class eg like a menu?
+
 -load default constructors
+
 -input methods and consider linking methods
+
 -consistent style, attribute names in CAMELCASE
 
 ----TO ACCESS DIAGRAM-----
